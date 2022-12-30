@@ -1,0 +1,4 @@
+Nama: Ruth Christina
+Umur: 23 Tahun
+Stack:Quality Assurance
+Bahasa Pemrograman: Javascript dan PHP
